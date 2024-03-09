@@ -6,7 +6,7 @@ sepremz</a></h1>
   <img align="right" top="500" height="160" width="160" alt="GIF" src="https://steamuserimages-a.akamaihd.net/ugc/959716048075296014/6E0EB84D32090719B68289BB3F6A3A977F039D6C/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false">
 </a>
 
-<h3 align="center">I primarily use c++</h3>
+<h3 align="center">I primarily use C++</h3>
 <h3 align="center">C# cool I like it, for GUI</h3>
 <h3 align="center">I hate Python, but I like it when I'm about to do an evil trick xD</h3>
 
