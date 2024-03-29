@@ -6,10 +6,12 @@ sepremz</a></h1>
   <img align="right" top="500" height="160" width="160" alt="GIF" src="https://steamuserimages-a.akamaihd.net/ugc/959716048075296014/6E0EB84D32090719B68289BB3F6A3A977F039D6C/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false">
 </a>
 
-<h4 align="center">👨‍💻 I primarily use C++, crafting clean and efficient code.</h4>
-<h4 align="center">🖥️ Harnessing C# for slick and user-friendly GUIs.</h4>
-<h4 align="center">🐍 Playfully dabbling in Python for evil tricks xD.</h4>
-<h4 align="center">💡 Coding with precision, creativity, and a touch of mischief.</h4>
+<div class="center">
+  <h4>👨‍💻 I primarily use C++, crafting clean and efficient code.</h4>
+  <h4>🖥️ Harnessing C# for slick and user-friendly GUIs.</h4>
+  <h4>🐍 Playfully dabbling in Python for evil tricks xD.</h4>
+  <h4>💡 Coding with precision, creativity, and a touch of mischief.</h4>
+</div>
 
 <p align="center">
 <h3 align="center" >My Links 🤝 </h3>
