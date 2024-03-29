@@ -11,7 +11,7 @@ sepremz</a></h1>
 <h4 align="center">I hate Python, but I like it when I'm about to do an evil trick xD</h4>
 
 <p align="center">
-<h3 align="center" > <img src="" width="30" height="30" style="margin-right: 10px;">My Links 🤝 </h3>
+<h3 align="center" > style="margin-right: 10px;">My Links 🤝 </h3>
 
  <div align="center"  class="icons-social" style="margin-left: 10px;">
         <a style="margin-left: 10px;"  target="_blank" href="https://soundcloud.com/sepremz/">
