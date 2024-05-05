@@ -7,10 +7,9 @@ sepremz</a></h1>
 </a>
 
 <div class="center">
-  <h4>👨‍💻 I primarily use C++, crafting clean and efficient code.</h4>
-  <h4>🖥️ Harnessing C# for slick and user-friendly GUIs.</h4>
-  <h4>🐍 Playfully dabbling in Python for evil tricks xD.</h4>
-  <h4>💡 Coding with precision, creativity, and a touch of mischief.</h4>
+  <h4>👨‍💻.</h4>
+  <h4>🖥️.</h4>
+  <h4>💡.</h4>
 </div>
 
 <p align="center">
