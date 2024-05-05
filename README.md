@@ -7,9 +7,6 @@ sepremz</a></h1>
 </a>
 
 <div class="center">
-  <h4>👨‍💻.</h4>
-  <h4>🖥️.</h4>
-  <h4>💡.</h4>
 </div>
 
 <p align="center">
