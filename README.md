@@ -21,8 +21,6 @@ sepremz</a></h1>
 			<img src="https://img.icons8.com/doodle/1x/twitter-squared--v2.png" ></a>
 		<a style="margin-left: 10px;" target="_blank" https://www.youtube.com/@sepremz">
 				<img src="https://img.icons8.com/doodle/1x/youtube--v2.png" ></a>
-                <a style="margin-left: 10px;" target="_blank" href="https://www.facebook.com/sepremz">
-			<img src="https://img.icons8.com/doodle/48/facebook-new.png" ></a>
 <a style="margin-left: 10px;" target="_blank" href="https://steamcommunity.com/id/sepremz/">
 			<img src="https://img.icons8.com/doodle/48/steam-circled.png" ></a>
       </div>
