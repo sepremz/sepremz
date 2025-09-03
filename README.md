@@ -3,7 +3,7 @@ sepremz</a></h1>
 <h3 align="center">I play & make beats and code stuff</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sepremz&abbreviated=true" alt="seen" /> </p>
 <a target="_blank" align="center">
-  <img align="right" top="500" height="160" width="160" alt="GIF" src="!">
+  <img align="right" top="500" height="160" width="160" alt="" src="!">
 </a>
 
 <div class="center">
